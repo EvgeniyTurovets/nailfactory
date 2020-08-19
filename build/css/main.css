@@ -654,4 +654,6 @@ body {
     max-height: 50px; }
   .main2__title {
     padding-top: 3vw;
-    padding-bottom: 3vw; } }
+    padding-bottom: 3vw; }
+  .main4__wrap .main3__text {
+    text-align: left; } }
